@@ -6,7 +6,4 @@ class Player{
     this.type = type;
   }
 
-   hello(){
-    console.log(`hello mr ${this.name} ha a nice day`)
-  }
 }
